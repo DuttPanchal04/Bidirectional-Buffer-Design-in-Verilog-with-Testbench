@@ -66,6 +66,7 @@ The testbench drives various test vectors to validate proper direction switching
 - The simulation waveform shows signal propagation from A to B and B to A, depending on the en value.
 - Includes logic 1, 0, x, and z cases with proper tri-state behavior.
 
+![Bidirectional Buffer in Verilog](https://github.com/user-attachments/assets/ebc924bd-03a0-47a9-ba38-60e48b4d66a6)
 
 ## 🌐 Run Online
 Simulate this design directly on EDA Playground:
